@@ -3,11 +3,11 @@ Build A Palindrome Checker Project
 
 One Page Build A PalindromeChecker
 
-This website was built using Free Code Camp instructions: Learn To Build A Palindrome Checker Using JavaScript (
+This website was built using Free Code Camp instructions: Learn To Build A Palindrome Checker Using JavaScript 
 
 Section: JavaScript Algorithms and Data Structures (Beta)
 
-Course Name: learn Intermediate CSS by Building a Cat painting
+Course Name: Learn To Build A Palindrome Checker Using JavaScript 
 
 deatils:
 
