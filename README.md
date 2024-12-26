@@ -5,7 +5,7 @@
 
 #### This Project Is A **Pyramid Generator**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The Primary Goal Is You Learned Basic String and Array Methods By Building A Music Player.
+#### The Primary Goal Is You'll Learn Fundamental Programming Concepts In JavaScript By Coding Your Own Pyramid Generator.
 
 
 
